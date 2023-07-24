@@ -6,11 +6,12 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## Índice 
 
-* [1. Intro](url)
-* [2. Demo](url)
-* [3. ¿Qué construirás?](url)
-* [4. Objetivos del aprendizaje](url)
-* [5. Requisitos](url)
+* [1. Intro](https://github.com/CamsCuevas/clon-de-google#1-intro)
+* [2. Demo]((https://github.com/CamsCuevas/clon-de-google#2-demo))
+* [3. ¿Qué construirás?](https://github.com/CamsCuevas/clon-de-google#3-qu%C3%A9-construir%C3%A)
+* [4. Objetivos del aprendizaje](https://github.com/CamsCuevas/clon-de-google#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/CamsCuevas/clon-de-google#5-requisitos)
+* [6. Aprendizaje personal](url)
 
 ****
 ## 1. Intro
@@ -65,3 +66,6 @@ Realizarse de manera individual
 
 ****
 
+## 6. Aprendizaje personal
+
+Realizando este proyecto pude aplicar mis conocimientos de semántica HTML y experimentar con varias de las propiedades de CSS. He pasado un buen rato haciendo esta página y la verdad lo recomiendo mucho, hacer un clon de un sitio popular deja mucho aprendizaje y sin duda debes intentarlo. 
