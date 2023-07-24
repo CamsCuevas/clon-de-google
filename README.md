@@ -7,7 +7,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 ## Índice 
 
 * [1. Intro](https://github.com/CamsCuevas/clon-de-google#1-intro)
-* [2. Demo]((https://github.com/CamsCuevas/clon-de-google#2-demo))
+* [2. Demo](https://github.com/CamsCuevas/clon-de-google#2-demo)
 * [3. ¿Qué construirás?](https://github.com/CamsCuevas/clon-de-google#3-qu%C3%A9-construir%C3%A)
 * [4. Objetivos del aprendizaje](https://github.com/CamsCuevas/clon-de-google#4-objetivos-de-aprendizaje)
 * [5. Requisitos](https://github.com/CamsCuevas/clon-de-google#5-requisitos)
