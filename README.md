@@ -11,7 +11,7 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 * [3. ¿Qué construirás?](https://github.com/CamsCuevas/clon-de-google#3-qu%C3%A9-construir%C3%A)
 * [4. Objetivos del aprendizaje](https://github.com/CamsCuevas/clon-de-google#4-objetivos-de-aprendizaje)
 * [5. Requisitos](https://github.com/CamsCuevas/clon-de-google#5-requisitos)
-* [6. Aprendizaje personal](url)
+* [6. Aprendizaje personal](https://github.com/CamsCuevas/clon-de-google#6-aprendizaje-personal)
 
 ****
 ## 1. Intro
